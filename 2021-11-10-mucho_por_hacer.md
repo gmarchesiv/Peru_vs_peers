@@ -13,7 +13,7 @@ Las cifras provienen de los indicadores económicos del Banco Mundial y del Repo
 
 La razón por la cual estamos en el mapa internacional es, sin duda, el manejo macroeconómico. Es un trabajo en tándem, de varios años, entre el BCR y el MEF. El BCR garantiza que no haya inflación y mantiene el tipo de cambio estable, mientras el MEF cuida el déficit fiscal e impulsa la ejecución de la inversión pública. Es cierto que tenemos un nivel de infraestructura social y productiva inferior a nuestros pares. En parte tiene que ver por la inversión atomizada e ineficiente de los tres niveles de Estado, la falta de capacidad de ejecución y la corrupción. En parte tiene que ver con que el MEF cuida el endeudamiento público y el déficit fiscal, cumpliendo con la Ley de Transparencia Fiscal. Por el manejo responsable de ambas instituciones somos los mejores en Latinoamérica cuando nos medimos por riesgo país, el EMBI de JP Morgan. Somos, inclusive, mejores que Chile.
 
-https://media-exp1.licdn.com/dms/image/C4E12AQE_5ehowMZF_Q/article-inline_image-shrink_1000_1488/0/1592056794025?e=1642032000&v=beta&t=sisMmGZaWR9_PibUh7eRUaW3Z2X-xBn60JnY6jHTKBk
+![alt text](https://media-exp1.licdn.com/dms/image/C4E12AQE_5ehowMZF_Q/article-inline_image-shrink_1000_1488/0/1592056794025?e=1642032000&v=beta&t=sisMmGZaWR9_PibUh7eRUaW3Z2X-xBn60JnY6jHTKBk)
 
 
 
