@@ -29,7 +29,7 @@ Midiendo el crecimiento promedio de los últimos 10 años, somos una de las estr
 
 Si nos comparamos por PBI per cápita en US$ y PBI per cápita PPP - ajustado por paridad poder de compra - vemos que nuestro comparable más cercano es Paraguay. El PBI per cápita de Perú es US$ 7002 y medido por PPP es US$ 12450, la mitad del valor de Chile.
 
-![alt text] (https://media-exp1.licdn.com/dms/image/C4E12AQH0LL8c8_u4Cw/article-inline_image-shrink_1000_1488/0/1592057684379?e=1642032000&v=beta&t=_AN2Y0k6p0qYJY2Sm6R2lMAZ7NsYKH_n-C_UiyZZt-Q)
+![alt text](https://media-exp1.licdn.com/dms/image/C4E12AQH0LL8c8_u4Cw/article-inline_image-shrink_1000_1488/0/1592057684379?e=1642032000&v=beta&t=_AN2Y0k6p0qYJY2Sm6R2lMAZ7NsYKH_n-C_UiyZZt-Q)
 
 **3.- Nuestra institucionalidad es inferior al promedio, a pesar de que estamos cuartos en el ranking general entre los países de la muestra**
 
