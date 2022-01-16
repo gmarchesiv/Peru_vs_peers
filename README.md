@@ -1,2 +1,2 @@
-# PeruvsPeers
-Comparative economic analysis of Peru vs Latam peers. Some articles are in Spanish. 
+# Peru vs Pares
+Distintos análisis para comparar indicadores económicos y sociales de Perú con paises pares
